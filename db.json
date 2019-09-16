@@ -1,0 +1,28 @@
+{
+  "destinations": [
+    {
+      "id": 1,
+      "name": "Tahiti",
+      "image_url": "https://tat.imgix.net/attachments/global/1477683283_original.jpeg?w=640&h=480&fit=crop&crop=entropy&auto=format,enhance&q=60#tatid:1120608",
+      "climate": "Tropical",
+      "latitude": -17.6509,
+      "longitude": -149.4260
+    },
+    {
+      "id": 2,
+      "name": "Iceland",
+      "image_url": "https://images2.minutemediacdn.com/image/upload/c_crop,h_1192,w_2121,x_0,y_111/f_auto,q_auto,w_1100/v1554702761/shape/mentalfloss/573469.istock-663874486.jpg",
+      "climate": "subarctic",
+      "latitude": 64.9631,
+      "longitude": -19.0208
+    },
+    {
+      "id": 3,
+      "name": "Busan",
+      "image_url": "https://uarctic.vps02.fwstatic.download/media/1599885/busan-south-korea-p6favpp_1.jpg?anchor=center&mode=crop&width=1020&height=638&slimmage=true&bgcolor=fff&format=jpg&rnd=132098260510000000",
+      "climate": "temperate",
+      "latitude": 35.1796,
+      "longitude": 129.0756
+    }
+  ]
+}

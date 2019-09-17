@@ -17,6 +17,12 @@ Right now, we need our client to:
 2. Display a form to add a destination
   - On submission of this form, we should see a card for that destination appear on the page
 
+## New Deliverables
+
+3. Now that you have a working form to create new destinations and an index to list all of them out, your next goal is to build a navigation bar to switch between the two. Your nav bar should have 2 buttons: a "home" button, and a "Create a new destination" button. Clicking the former should display the index of all destinations, while clicking the latter should display the form. Again, style as you wish.
+
+4. Once your navigation bar is working, add a third button called "Profile" that when clicked displays a profile page for a current user. For now all of the displayed information can be static, but eventually we will fetch user data from an API and display it.
+
 ## API
 
 In this repository is a `db.json` file containing example data of what we might expect our API to return as JSON. While our backend engineers get started on building our API, you can use this data as a starting point to build us the best front end experience the world has ever seen.
